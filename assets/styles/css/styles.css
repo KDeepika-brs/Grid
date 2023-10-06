@@ -130,7 +130,7 @@ ul li {
 
 header {
 
-    width: 100%;
+
     display: grid;
     grid-template-columns: 6fr 5fr 3fr 3fr;
     grid-gap: 20px;
